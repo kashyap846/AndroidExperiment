@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ScoreKeeperSolution</string>
+    <string name="title_string">ScoreKeeper</string>
+    <string name="teamA_title_string">Team A</string>
+    <string name="teamB_title_string">Team B</string>
+    <string name="increase_string">+</string>
+    <string name="decrease_string">-</string>
+    <string name="round_no1">Increment/Decrement By 1</string>
+    <string name="round_no5">Increment/Decrement By 5</string>
+    <string name="round_no10">Increment/Decrement By 10</string>
+    <string name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string>
+</resources>
